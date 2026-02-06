@@ -38,7 +38,8 @@ Each paper directory contains the corresponding source code, configuration files
 - **William Mauya** – Field data collection  
 - **Soheil Zaghian** – Methodology and validation  
 - **Torbern Tagesson** – Scientific consultation  
-- **Ali Mohammadizadeh** – Supervision  
+- **Ali Mohammadizadeh** – Supervision
+- **Filbert Francis** – Project member
 
 ---
 
@@ -48,7 +49,12 @@ The source code in this repository will be released under an open-source license
 ---
 
 ## 📫 Contact
-For questions or collaborations, please contact:  
+For questions or collaborations, please contact: 
+
+**Sadegh Jamali**  
+📧 sadegh.jamali@tft.lth.se  
+🔗 https://orcid.org/0000-0002-0961-9497
+
 **Seyed Ehsan Khankeshizadeh**  
 📧 eh.khankeshizadeh@gmail.com  
 🔗 https://orcid.org/0000-0003-0523-4802

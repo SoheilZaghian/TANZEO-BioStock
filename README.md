@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="assets/images/1759502435938.jpg" width="30%">
+  <img src="assets/images/1759502436744.jpg" width="30%">
+  <img src="assets/images/1759502436982.jpg" width="30%">
+</p>
+
+<p align="center">
+</p>
+
 # TANZEO-BioStock:
 Enhancing Biomass and Carbon Stock Estimation in Tanzanian Forests: Integrating Earth Observation and Machine Learning for Sustainable Forest Management and Food Security 
 

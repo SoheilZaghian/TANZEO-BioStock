@@ -7,6 +7,8 @@ Enhancing Biomass and Carbon Stock Estimation in Tanzanian Forests: Integrating 
 The project supports scientific analyses presented in peer-reviewed publications and promotes open and reproducible research in remote sensing and forest carbon assessment. This project is funded by EO AFRICA R&D Facility, in coordination with the European Space Agency (ESA) and the African Union Commission (AUC).
 More info: https://www.eoafrica-rd.org/announcing-the-eo-africa-rd-research-projects-awarded-proposals-third-call/
 
+Preliminary results presented at LPS2025, Vienna: https://www.eoafrica-rd.org/wp-content/uploads/docs/research_projects/fourth_call/highlights/10_LPS25_EOAfrica_TANZEO.pdf
+
 ---
 
 ## 📦 Data Availability

@@ -5,7 +5,7 @@
 - Journal/Conference: Conference: IEEE-2025 International Conference on Machine Intelligence for GeoAnalytics and Remote Sensing (MIGARS)
 
 - Year: 2025
-- DOI/Link: https://ieeexplore.ieee.org/document/11232131
+- DOI/Link: https://doi.org/10.1109/MIGARS67156.2025.11232131
 
 ## What is in this folder?
 - `src/`: source code

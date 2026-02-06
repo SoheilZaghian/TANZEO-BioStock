@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "TANZEO-BioStock"
+type: software
+authors:
+  - family-names: "Khankeshizadeh"
+    given-names: "Seyed Ehsan"
+    orcid: "https://orcid.org/0000-0003-0523-4802"
+  - family-names: "Jamali"
+    given-names: "Sadegh"
+doi: "10.5281/zenodo.17914046"
+repository-code: "https://github.com/EhKhanGeo/TANZEO-BioStock"
+license: "MIT"

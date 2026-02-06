@@ -54,7 +54,8 @@ Each paper directory contains the corresponding source code, configuration files
 ---
 
 ## 📜 License
-The source code in this repository will be released under an open-source license (to be specified).
+This project is released under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
